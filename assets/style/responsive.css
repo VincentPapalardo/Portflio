@@ -1,0 +1,29 @@
+@media screen and (max-width: 768px) {
+
+    .skillContainer {
+        display: none;
+    }
+
+    .phoneText {
+        display: contents !important;
+    }
+
+    .desktopText {
+        display: none;
+    }
+    
+    .projectsDesktop {
+        display: none;
+    }
+
+
+}
+
+.phoneText {
+    display: none;
+}
+
+
+
+
+
